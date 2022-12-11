@@ -1,6 +1,7 @@
 div#carousel {
-    perspective: 1200px;
-    padding: 25%;
+    perspective: 1050px;
+    padding-left: 25%;
+    padding-right:25%;
     font-size:0;
     margin-bottom: 3rem;
     overflow: hidden;
